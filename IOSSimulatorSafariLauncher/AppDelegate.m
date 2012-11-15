@@ -16,6 +16,33 @@
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
+	NSArray * arguments = [[NSProcessInfo processInfo] arguments];
+	if([arguments count] < 2) {
+		self.window.backgroundColor = [UIColor redColor];
+		UIAlertView *message = [[UIAlertView alloc] initWithTitle:@"Missing Argument Error"
+			message:@"Pass an valid url as first argument, when starting this app.\n----\nios-sim launch IOSSimulatorSafariLauncher.app --args http://example.com"
+			delegate:nil
+			cancelButtonTitle:@"OK"
+			otherButtonTitles:nil];
+    	[message show];
+	} else {
+		NSString * urlArgument = [arguments objectAtIndex: 1];
+		
+		NSString *urlRegEx = @"(http|https)://((\\w)*|([0-9]*)|([-|_])*)+([\\.|/]((\\w)*|([0-9]*)|([-|_])*))+";
+    	NSPredicate *urlTest = [NSPredicate predicateWithFormat:@"SELF MATCHES %@", urlRegEx];
+    	if(![urlTest evaluateWithObject:urlArgument]) {
+			self.window.backgroundColor = [UIColor orangeColor];
+			UIAlertView *message = [[UIAlertView alloc] initWithTitle:@"URL Error"
+				message: [NSString stringWithFormat:@"\"%@\" is not a vaild url", urlArgument]
+				delegate:nil
+				cancelButtonTitle:@"OK"
+				otherButtonTitles:nil];
+			[message show];		
+		} else {
+			self.window.backgroundColor = [UIColor greenColor];
+			[[UIApplication sharedApplication] openURL:[NSURL URLWithString: urlArgument]];
+		}
+	}
     return YES;
 }
 

@@ -1,0 +1,271 @@
+TIOSSimulatorSafariLauncher
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Info.plist IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Info.plist
+cProcessPCH /var/folders/kw/vh6cqz5j1379_9c7hl02hlr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/IOSSimulatorSafariLauncher-Prefix-citqxbditfdibdalmjljsjyainhs/IOSSimulatorSafariLauncher-Prefix.pch.pth IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/main.o /Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/AppDelegate.o /Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/IOSSimulatorSafariLauncher normal i386
+cGenerateDSYMFile /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app.dSYM /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/IOSSimulatorSafariLauncher
+cCpResource IOSSimulatorSafariLauncher/Default.png build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default.png
+cCpResource IOSSimulatorSafariLauncher/Default@2x.png build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default@2x.png
+cCopyStringsFile /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/en.lproj/InfoPlist.strings IOSSimulatorSafariLauncher/en.lproj/InfoPlist.strings
+cCpResource IOSSimulatorSafariLauncher/Default-568h@2x.png build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default-568h@2x.png
+cTouch /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050A4C5A40000000000228FD0
+t1352975780
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050A4C5A700000000003DCEF0
+t1352975783
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050A4C5A600000000000015F7
+t1352975782
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050A4C5AC0000000000000E8D
+t1352975788
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050A4C5AC0000000000AB3D60
+t1352975788
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c0000000050A4C5CF0000000000001B54
+t1352975823
+s6996
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/AppDelegate.m
+c0000000050A4FEA80000000000000AD1
+t1352990376
+s2769
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Prefix.pch
+c0000000050A4FD3C000000000000015D
+t1352990012
+s349
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/en.lproj/InfoPlist.strings
+c0000000050A4FD3C000000000000002D
+t1352990012
+s45
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/main.m
+c0000000050A4FD3C0000000000000165
+t1352990012
+s357
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app
+t2
+s0
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app.dSYM
+t2
+s0
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default.png
+t2
+s0
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default@2x.png
+t2
+s0
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/IOSSimulatorSafariLauncher
+t2
+s0
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Info.plist
+t2
+s0
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/PkgInfo
+t2
+s0
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/IOSSimulatorSafariLauncher.LinkFileList
+c0000000050A4FEAD0000000000000163
+t1352990381
+s355
+
+N/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/kw/vh6cqz5j1379_9c7hl02hlr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/IOSSimulatorSafariLauncher-Prefix-citqxbditfdibdalmjljsjyainhs/IOSSimulatorSafariLauncher-Prefix.pch.pth
+t2
+s0
+
+NIOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Info.plist
+c0000000050A4FD3C00000000000005B4
+t1352990012
+s1460
+
+CBuild AST from /Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/AppDelegate.m
+r0
+
+CBuild AST from /Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencieseb1e412d3655b641^9bc9472d3655b641^---0#1#0#--18"Check dependencies36"6EF2B13B-67CA-43D4-B644-B4BFB319E837-
+
+CCompileC build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/AppDelegate.o /Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374683181.692384
+e374683181.821721
+r1
+xCompileC
+xbuild/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/AppDelegate.o
+x/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/AppDelegate.me15eb12d3655b641^4f5cd22d3655b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/AppDelegate.m0000000000000000^4235"CompileC build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/AppDelegate.o IOSSimulatorSafariLauncher/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mschieben/Projects/IOSSimulatorSafariLauncher    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/IOSSimulatorSafariLauncher-generated-files.hmap -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/IOSSimulatorSafariLauncher-own-target-headers.hmap -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/IOSSimulatorSafariLauncher-all-target-headers.hmap -iquote /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/IOSSimulatorSafariLauncher-project-headers.hmap -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/DerivedSources/i386 -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/DerivedSources -F/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator -include /var/folders/kw/vh6cqz5j1379_9c7hl02hlr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/IOSSimulatorSafariLauncher-Prefix-citqxbditfdibdalmjljsjyainhs/IOSSimulatorSafariLauncher-Prefix.pch -MMD -MT dependencies -MF /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/AppDelegate.dia -c /Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/AppDelegate.m -o /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/AppDelegate.o36"03EE847C-F5B5-4B62-B5B2-2332AF8FD679-
+
+CCompileC build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/main.o /Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374683181.692366
+e374683181.798596
+r1
+xCompileC
+xbuild/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/main.o
+x/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/main.m145fb12d3655b641^0d71cc2d3655b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/main.m0000000000000000^4193"CompileC build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/main.o IOSSimulatorSafariLauncher/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mschieben/Projects/IOSSimulatorSafariLauncher    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/IOSSimulatorSafariLauncher-generated-files.hmap -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/IOSSimulatorSafariLauncher-own-target-headers.hmap -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/IOSSimulatorSafariLauncher-all-target-headers.hmap -iquote /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/IOSSimulatorSafariLauncher-project-headers.hmap -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/DerivedSources/i386 -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/DerivedSources -F/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator -include /var/folders/kw/vh6cqz5j1379_9c7hl02hlr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/IOSSimulatorSafariLauncher-Prefix-citqxbditfdibdalmjljsjyainhs/IOSSimulatorSafariLauncher-Prefix.pch -MMD -MT dependencies -MF /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/main.dia -c /Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/main.m -o /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/main.o36"1D09144D-72B9-4CAB-994F-46D669D53851-
+
+CCopyStringsFile /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/en.lproj/InfoPlist.strings IOSSimulatorSafariLauncher/en.lproj/InfoPlist.strings
+s374683183.598856
+e374683183.614712
+r1
+xCopyStringsFile
+x/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/en.lproj/InfoPlist.strings
+xIOSSimulatorSafariLauncher/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy IOSSimulatorSafariLauncher/en.lproj/InfoPlist.strings9e62992f3655b641^9e5e9d2f3655b641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/en.lproj/InfoPlist.strings0000000000000000^679"CopyStringsFile build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/en.lproj/InfoPlist.strings IOSSimulatorSafariLauncher/en.lproj/InfoPlist.strings    cd /Users/mschieben/Projects/IOSSimulatorSafariLauncher    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/en.lproj -- IOSSimulatorSafariLauncher/en.lproj/InfoPlist.strings36"9ACD844E-9552-40D6-B987-9FABA1466B72-
+
+CCpResource IOSSimulatorSafariLauncher/Default-568h@2x.png build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default-568h@2x.png
+s374683183.599128
+e374683183.615586
+r1
+xCpResource
+xIOSSimulatorSafariLauncher/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default-568h@2x.png7270992f3655b641^c4979d2f3655b641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default-568h@2x.png000000000080d041^722"CpResource "IOSSimulatorSafariLauncher/Default-568h@2x.png" "build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default-568h@2x.png"    cd /Users/mschieben/Projects/IOSSimulatorSafariLauncher    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/Default-568h@2x.png" /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app36"A57CB592-5531-4D2C-A8E6-AFED354B7154-
+
+CCpResource IOSSimulatorSafariLauncher/Default.png build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default.png
+s374683183.598838
+e374683183.615444
+r1
+xCpResource
+xIOSSimulatorSafariLauncher/Default.png
+xbuild/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default.pngfe5f992f3655b641^0c8f9d2f3655b641^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default.png000000000080d041^692"CpResource IOSSimulatorSafariLauncher/Default.png build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default.png    cd /Users/mschieben/Projects/IOSSimulatorSafariLauncher    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/Default.png /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app36"3980B224-FCD4-4312-AC59-DAC5299025CD-
+
+CCpResource IOSSimulatorSafariLauncher/Default@2x.png build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default@2x.png
+s374683183.598857
+e374683183.615464
+r1
+xCpResource
+xIOSSimulatorSafariLauncher/Default@2x.png
+xbuild/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default@2x.png3d61992f3655b641^8a919d2f3655b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default@2x.png000000000080d041^707"CpResource "IOSSimulatorSafariLauncher/Default@2x.png" "build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Default@2x.png"    cd /Users/mschieben/Projects/IOSSimulatorSafariLauncher    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/Default@2x.png" /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app36"38F6B29B-F92E-446B-B47F-244086FC2C04-
+
+CGenerateDSYMFile /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app.dSYM /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/IOSSimulatorSafariLauncher
+s374683183.532590
+e374683183.589659
+r1
+xGenerateDSYMFile
+x/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app.dSYM
+x/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/IOSSimulatorSafariLauncher
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Generating /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app.dSYMae67882f3655b641^5af4962f3655b641^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app.dSYM000000000080d041^781"GenerateDSYMFile build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app.dSYM build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/IOSSimulatorSafariLauncher    cd /Users/mschieben/Projects/IOSSimulatorSafariLauncher    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/IOSSimulatorSafariLauncher -o /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app.dSYM36"59EBEF1C-5720-45A0-BE5C-42CFC1F2DC7F-
+
+CLd /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/IOSSimulatorSafariLauncher normal i386
+s374683181.829522
+e374683183.524757
+r1
+xLd
+x/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/IOSSimulatorSafariLauncher
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Link /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/IOSSimulatorSafariLauncher7a6fd42d3655b641^ab5a862f3655b641^---0#0#0#--1350"Ld build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/IOSSimulatorSafariLauncher normal i386    cd /Users/mschieben/Projects/IOSSimulatorSafariLauncher    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator -F/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator -filelist /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/Objects-normal/i386/IOSSimulatorSafariLauncher.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/IOSSimulatorSafariLauncher36"E22D7597-5FFF-42E9-837E-16AA3EA0E74F-
+
+CProcessInfoPlistFile /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Info.plist IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Info.plist
+s374683181.291835
+e374683181.294940
+r1
+xProcessInfoPlistFile
+x/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Info.plist
+xIOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Process IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Info.plist54c74a2d3655b641^e9814b2d3655b641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Info.plist0000000000000000^825"ProcessInfoPlistFile build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Info.plist IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Info.plist    cd /Users/mschieben/Projects/IOSSimulatorSafariLauncher    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Info.plist -genpkginfo /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app/Info.plist36"DF3DC922-5A35-496C-A0FA-9849B095EA05-
+
+CProcessPCH /Users/mschieben/Library/Developer/Xcode/DerivedData/IOSSimulatorSafariLauncher-bkwnpbwathcmwmaqjfpdpxymgjri/Index/PrecompiledHeaders/IOSSimulatorSafariLauncher-Prefix-famswctbkwpldigbbxsdmvztpudd_ast/IOSSimulatorSafariLauncher-Prefix.pch.pth IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/kw/vh6cqz5j1379_9c7hl02hlr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/IOSSimulatorSafariLauncher-Prefix-citqxbditfdibdalmjljsjyainhs/IOSSimulatorSafariLauncher-Prefix.pch.pth IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374683181.303812
+e374683181.685647
+r1
+xProcessPCH
+x/var/folders/kw/vh6cqz5j1379_9c7hl02hlr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/IOSSimulatorSafariLauncher-Prefix-citqxbditfdibdalmjljsjyainhs/IOSSimulatorSafariLauncher-Prefix.pch.pth
+xIOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Precompile IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Prefix.pcha0e14d2d3655b641^1e89af2d3655b641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Prefix.pch0000000000000000^4209"ProcessPCH /var/folders/kw/vh6cqz5j1379_9c7hl02hlr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/IOSSimulatorSafariLauncher-Prefix-citqxbditfdibdalmjljsjyainhs/IOSSimulatorSafariLauncher-Prefix.pch.pth IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mschieben/Projects/IOSSimulatorSafariLauncher    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/IOSSimulatorSafariLauncher-generated-files.hmap -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/IOSSimulatorSafariLauncher-own-target-headers.hmap -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/IOSSimulatorSafariLauncher-all-target-headers.hmap -iquote /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/IOSSimulatorSafariLauncher-project-headers.hmap -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/DerivedSources/i386 -I/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/IOSSimulatorSafariLauncher.build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.build/DerivedSources -F/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/kw/vh6cqz5j1379_9c7hl02hlr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/IOSSimulatorSafariLauncher-Prefix-citqxbditfdibdalmjljsjyainhs/IOSSimulatorSafariLauncher-Prefix.pch.dia -c /Users/mschieben/Projects/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher/IOSSimulatorSafariLauncher-Prefix.pch -o /var/folders/kw/vh6cqz5j1379_9c7hl02hlr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/IOSSimulatorSafariLauncher-Prefix-citqxbditfdibdalmjljsjyainhs/IOSSimulatorSafariLauncher-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/kw/vh6cqz5j1379_9c7hl02hlr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/IOSSimulatorSafariLauncher-Prefix-citqxbditfdibdalmjljsjyainhs/IOSSimulatorSafariLauncher-Prefix.pch.d36"3F71F86E-0142-48C5-A595-F6079CE8F3A8-
+
+CTouch /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app
+s374683183.624674
+e374683183.670369
+r1
+xTouch
+x/Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app7bf79f2f3655b641^ada2ab2f3655b641^---0#0#0#--454"Touch build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app    cd /Users/mschieben/Projects/IOSSimulatorSafariLauncher    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mschieben/Projects/IOSSimulatorSafariLauncher/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app36"1103C24B-6252-419A-A7E0-F8CA601FC3E8-
+
