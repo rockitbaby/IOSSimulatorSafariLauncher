@@ -19,12 +19,19 @@ curl https://raw.github.com/rockitbaby/IOSSimulatorSafariLauncher/master/build/D
 open ~/tools/ios-sim-safari-launcher/IOSSimulatorSafariLauncher.app.zip
 ```
 
-## Opening an URL in Safari on iPhone Simulator
+## Usage
+
+Opening an URL in Safari on iPad Simulator via the command line
 ```
-ios-sim launch ~/tools/ios-sim-safari-launcher/IOSSimulatorSafariLauncher.app --family iphone --args http://google.com?q=Yeah%21%20It%20works%21
+ios-sim launch ~/tools/ios-sim-safari-launcher/IOSSimulatorSafariLauncher.app --family ipad --args http://google.com?q=Yeah%21%20It%20works%21
 ```
 
-# Comfort
+Opening an URL in Safari on iPhone Simulator via the command line
+```
+ios-sim launch ~/tools/ios-sim-safari-launcher/IOSSimulatorSafariLauncher.app --family iphone --args http://iphonedevwiki.net/index.php/QuartzCore.framework
+```
+
+# For your Comfort
 I like to have a shortcut function in my [dotfiles](https://github.com/rockitbaby/dotfiles) - see .functions
 
 ```
