@@ -15,7 +15,7 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
-    [self.window makeKeyAndVisible];
+    
 	NSArray * arguments = [[NSProcessInfo processInfo] arguments];
 	if([arguments count] < 2) {
 		self.window.backgroundColor = [UIColor redColor];
@@ -28,9 +28,8 @@
 	} else {
 		NSString * urlArgument = [arguments objectAtIndex: 1];
 		
-		NSString *urlRegEx = @"(http|https)://((\\w)*|([0-9]*)|([-|_])*)+([\\.|/]((\\w)*|([0-9]*)|([-|_])*))+";
-    	NSPredicate *urlTest = [NSPredicate predicateWithFormat:@"SELF MATCHES %@", urlRegEx];
-    	if(![urlTest evaluateWithObject:urlArgument]) {
+		NSURL *url = [NSURL URLWithString: urlArgument];
+    	if(url == nil || (![[url scheme] isEqualToString:@"http"] && ![[url scheme] isEqualToString:@"https"])) {
 			self.window.backgroundColor = [UIColor orangeColor];
 			UIAlertView *message = [[UIAlertView alloc] initWithTitle:@"URL Error"
 				message: [NSString stringWithFormat:@"\"%@\" is not a vaild url", urlArgument]
@@ -40,9 +39,10 @@
 			[message show];		
 		} else {
 			self.window.backgroundColor = [UIColor greenColor];
-			[[UIApplication sharedApplication] openURL:[NSURL URLWithString: urlArgument]];
+			[[UIApplication sharedApplication] openURL:url];
 		}
 	}
+	[self.window makeKeyAndVisible];
     return YES;
 }
 
