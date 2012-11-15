@@ -2,6 +2,9 @@
 
 I found no way to open Safari on iPhone or iPad Simulator and open a specific URL via the command line.
 That is why I created this tiny iOS app.
+You can launch this app (e.g. via ios-sim) and pass an URL as argument to it. The app then open Safari by calling `[[UIApplication sharedApplication] openURL:url];`.
+
+Please let me know, if you've found an easier method.
 
 ## Installation (OS X)
 1. Install [ios-sim](https://github.com/phonegap/ios-sim)
@@ -22,7 +25,7 @@ ios-sim launch ~/tools/ios-sim-safari-launcher/IOSSimulatorSafariLauncher.app --
 ```
 
 # Comfort
-I like to have a shortcut function in my dotfiles
+I like to have a shortcut function in my [dotfiles](https://github.com/rockitbaby/dotfiles) - see .functions
 
 ```
 # functions to open an url in safari on ios simulator
