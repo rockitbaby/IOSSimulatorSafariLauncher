@@ -7,12 +7,15 @@ You can launch this app (e.g. via ios-sim) and pass an URL as argument to it. Th
 Please let me know, if you've found an easier method.
 
 ## Installation (OS X)
-1. Install [ios-sim](https://github.com/phonegap/ios-sim)
+
+* Prerequisites: XCode 4.5 with iOS Simulator 6.0
+
+* Follow the installation intructions for [ios-sim](https://github.com/phonegap/ios-sim)
 ```
 brew install ios-sim
 ```
 
-2. get the tiny ios app (compiled for iPhone and iPad Simulator 6.0)
+* get the tiny ios app (compiled for iPhone and iPad Simulator 6.0)
 ```
 mkdir -p ~/tools/ios-sim-safari-launcher
 curl https://raw.github.com/rockitbaby/IOSSimulatorSafariLauncher/master/build/Debug-iphonesimulator/IOSSimulatorSafariLauncher.app.zip > ~/tools/ios-sim-safari-launcher/IOSSimulatorSafariLauncher.app.zip
@@ -31,7 +34,7 @@ Opening an URL in Safari on iPhone Simulator via the command line
 ios-sim launch ~/tools/ios-sim-safari-launcher/IOSSimulatorSafariLauncher.app --family iphone --args http://iphonedevwiki.net/index.php/QuartzCore.framework
 ```
 
-# For your Comfort
+# For your comfort
 I like to have a shortcut function in my [dotfiles](https://github.com/rockitbaby/dotfiles) - see .functions
 
 ```
