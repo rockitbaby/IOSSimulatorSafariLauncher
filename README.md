@@ -43,11 +43,11 @@ I like to have a shortcut function in my [dotfiles](https://github.com/rockitbab
 # - http://github.com/phonegap/ios-sim
 # - http://github.com/rockitbaby/IOSSimulatorSafariLauncher
 function ipad-safari() {
-  ios-sim launch ~/tools/ios-sim-safari-launcher/SafariLauncherIphoneSim.app --family ipad --args $1
+  ios-sim launch ~/tools/ios-sim-safari-launcher/IOSSimulatorSafariLauncher.app --family ipad --args $1
 }
 
 function iphone-safari() {
-  ios-sim launch ~/tools/ios-sim-safari-launcher/SafariLauncherIphoneSim.app --family iphone --args $1
+  ios-sim launch ~/tools/ios-sim-safari-launcher/IOSSimulatorSafariLauncher.app --family iphone --args $1
 }
 
 function ipad-safari-log-memory() {
